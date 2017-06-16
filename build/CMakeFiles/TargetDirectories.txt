@@ -1,0 +1,3 @@
+/home/buddy/Documents/GpuTemplateMatch/build/CMakeFiles/rebuild_cache.dir
+/home/buddy/Documents/GpuTemplateMatch/build/CMakeFiles/edit_cache.dir
+/home/buddy/Documents/GpuTemplateMatch/build/CMakeFiles/1test.dir
